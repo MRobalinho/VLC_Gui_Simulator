@@ -4,13 +4,14 @@ MATLAB Simulator for VLC : SNR (error) simulator for VLC comunications  varying 
 Código MATLAB: MR_VLC_Gui.m
 Simulations of the concepts involved to determine the error depending on the power of the LED versus the distance 
 from the receiving object. 
-For the execution of the formulas I studied several concepts related to the formulas that are executed that depend on:
+For the execution of the formulas I studied several concepts related to the formulas that are executed 
+that depend on:
 
       a)	Technical specifications of LEDs (irradiance)
 
-      b)	Wavelength used by the LED (depends on the LED used). Although in the literature it is identified that technically 
-      it has no influence, in terms of the environment there are studies that indicate the importance of selecting wavelengths 
-      (of visible light) that are not so impacted by other external sources.
+      b)	Wavelength used by the LED (depends on the LED used). Although in the literature it is identified
+      that technically it has no influence, in terms of the environment there are studies that indicate the 
+      importance of selecting wavelengths (of visible light) that are not so impacted by other external sources.
 
       c)	Issuing area
 
@@ -37,8 +38,8 @@ Other important formulas in the calculation:
 
       • Luminous Flux = Luminance x area
 
-For the GUI I started from scratch writing a GUI code adapted to the parameters to be simulated. In this case, I started using the 
-commands to build the GUI:
+For the GUI I started from scratch writing a GUI code adapted to the parameters to be simulated. In this case,
+I started using the commands to build the GUI:
 
       • uifigure – Drawing the figure in the dimensions of the intended layout
 
