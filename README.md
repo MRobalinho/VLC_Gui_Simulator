@@ -17,21 +17,21 @@ e)	Quantum efficiency
 
 Other important values are calculation dependent, which are physical constants that influence the emission/reception calculations used in VLC:
 
-• (h) Planks constant = 6.626068e-34
+      • (h) Planks constant = 6.626068e-34
 
-• (c) Speed of Light = 299792458 m/s
+      • (c) Speed of Light = 299792458 m/s
 
 Other important formulas in the calculation:
 
-• Energy = h * wave length
+      • Energy = h * wave length
 
-• Photon energy = (h * c) / wave length
+      • Photon energy = (h * c) / wave length
 
-• Luminance = power (watt) / pi
+      • Luminance = power (watt) / pi
 
-• Luminous Intensity = Luminance / (distance^2)
+      • Luminous Intensity = Luminance / (distance^2)
 
-• Luminous Flux = Luminance x area
+      • Luminous Flux = Luminance x area
 
 For the GUI I started from scratch writing a GUI code adapted to the parameters to be simulated. In this case, I started using the commands to build the GUI:
 
