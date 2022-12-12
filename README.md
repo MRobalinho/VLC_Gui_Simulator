@@ -1,4 +1,4 @@
-# VLC_Gui_Simulator
+# VLC Communication Gui Simulator
 MATLAB Simulator for VLC (visilbe light communication) : SNR (error) simulator for VLC comunications  varying power
 LED, distance and Wave Lenhgt
 
