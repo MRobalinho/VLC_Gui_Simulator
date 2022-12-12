@@ -68,3 +68,6 @@ Next improvements to the simulator will be:
       c)	Include angle of incidence in the parameters and simulation;
 
       d)	Recording of simulation values in file (excel)
+
+![image](https://github.com/MRobalinho/VLC_Gui_Simulator/blob/main/Images/VLC_test_allpowerss.png)
+
